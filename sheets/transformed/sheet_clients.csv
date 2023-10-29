@@ -1,0 +1,101 @@
+id_cliente,nome_cliente,genero,data_nascimento,email,telefone,endereco,cidade,estado,cep
+1,Maria Silva,Feminino,1980-05-12,maria.silva@email.com,(11) 1234-5678,"Rua das Flores, 123",São Paulo,SP,01234-567
+2,João Santos,Masculino,1985-08-22,joao.santos@email.com,(11) 9876-5432,"Avenida Principal, 456",Guarulhos,SP,21098-765
+3,Ana Pereira,Feminino,1990-03-17,ana.pereira@email.com,(11) 7654-3210,"Travessa da Praça, 78",Osasco,SP,98765-432
+4,Pedro Rocha,Masculino,1977-12-04,pedro.rocha@email.com,(11) 2345-6789,"Rua da Amizade, 56",Santo André,SP,34567-890
+5,Luísa Ferreira,Feminino,1988-09-29,luisa.ferreira@email.com,(11) 8765-4321,"Praça Central, 234",Diadema,SP,54321-876
+6,André Almeida,Masculino,1992-02-15,andre.almeida@email.com,(11) 3456-7890,"Avenida das Palmeiras, 765",Mauá,SP,12345-678
+7,Laura Santos,Feminino,1987-06-10,laura.santos@email.com,(11) 8901-2345,"Rua do Comércio, 321",Itaquaquecetuba,SP,67890-123
+8,Carlos Oliveira,Masculino,1983-11-30,carlos.oliveira@email.com,(11) 5678-9012,"Alameda das Rosas, 987",Taboão da Serra,SP,23456-789
+9,Sofia Costa,Feminino,1979-08-19,sofia.costa@email.com,(11) 4321-8765,"Travessa dos Pinheiros, 543",Barueri,SP,89012-345
+10,Daniel Ferreira,Masculino,1986-04-03,daniel.ferreira@email.com,(11) 6789-0123,"Rua da Praia, 1234",São Bernardo do Campo,SP,45678-901
+11,Juliana Martins,Feminino,1995-01-25,juliana.martins@email.com,(11) 9012-3456,"Avenida Central, 7890",Mogi das Cruzes,SP,56789-012
+12,Eduardo Lima,Masculino,1975-07-05,eduardo.lima@email.com,(11) 1234-5678,"Praça da Independência, 234",São Caetano do Sul,SP,89012-345
+13,Maria Oliveira,Feminino,1984-10-12,maria.oliveira@email.com,(11) 9876-5432,"Rua das Palmeiras, 5678",Santana de Parnaíba,SP,12345-678
+14,Rafael Costa,Masculino,1989-03-22,rafael.costa@email.com,(11) 7654-3210,"Avenida dos Girassóis, 123",São José dos Campos,SP,23456-789
+15,Laura Pereira,Feminino,1991-06-28,laura.pereira@email.com,(11) 2345-6789,"Rua da Liberdade, 567",Guarujá,SP,56789-012
+16,Gustavo Fernandes,Masculino,1982-11-15,gustavo.fernandes@email.com,(11) 8765-4321,"Alameda das Flores, 9876",Barueri,SP,54321-876
+17,Renata Souza,Feminino,1983-04-20,renata.souza@email.com,(11) 3456-7890,"Rua dos Pássaros, 432",Santo André,SP,12345-678
+18,Marcelo Santos,Masculino,1980-07-03,marcelo.santos@email.com,(11) 8901-2345,"Avenida das Acácias, 765",São Caetano do Sul,SP,67890-123
+19,Fernanda Costa,Feminino,1989-01-10,fernanda.costa@email.com,(11) 5678-9012,"Rua das Margaridas, 321",Guarulhos,SP,23456-789
+20,Thiago Alves,Masculino,1994-05-08,thiago.alves@email.com,(11) 4321-8765,"Travessa dos Ipês, 5678",Osasco,SP,89012-345
+21,Marcela Oliveira,Feminino,1993-05-15,marcela.oliveira@email.com,(11) 555-2222,"Rua das Flores, 123",Santo André,SP,09050-100
+22,Rafael Rodrigues,Masculino,1995-12-08,rafael.rodrigues@email.com,(11) 555-3333,"Av. das Palmeiras, 45",São Bernardo,SP,09790-200
+23,Catarina Silva,Feminino,1988-07-21,catarina.silva@email.com,(11) 555-4444,"Rua dos Pássaros, 67",Diadema,SP,09980-300
+24,Lucas Santos,Masculino,1997-03-10,lucas.santos@email.com,(11) 555-5555,"Av. do Sol, 89",São Caetano,SP,09570-400
+25,Isabela Pereira,Feminino,1994-09-27,isabela.pereira@email.com,(11) 555-6666,"Rua da Lua, 78",Mauá,SP,09340-500
+26,Pedro Carvalho,Masculino,1990-12-05,pedro.carvalho@email.com,(11) 555-7777,"Av. das Estrelas, 12",Santo André,SP,09080-110
+27,Luana Fernandes,Feminino,1993-08-16,luana.fernandes@email.com,(11) 555-8888,"Rua das Maravilhas, 54",São Bernardo,SP,09780-210
+28,João Gomes,Masculino,1988-06-29,joao.gomes@email.com,(11) 555-9999,"Av. do Arco-Íris, 23",Diadema,SP,09970-220
+29,Sofia Almeida,Feminino,1996-02-14,sofia.almeida@email.com,(11) 555-1010,"Rua das Borboletas, 9",São Caetano,SP,09560-230
+30,Arthur Lima,Masculino,1991-11-30,arthur.lima@email.com,(11) 555-2020,"Av. das Águas, 37",Mauá,SP,09350-320
+31,Laura Martins,Feminino,1993-03-25,laura.martins@email.com,(11) 555-3030,"Rua das Araras, 65",Santo André,SP,09090-130
+32,Gabriel Ribeiro,Masculino,1995-07-19,gabriel.ribeiro@email.com,(11) 555-4040,"Av. das Borboletas, 56",São Bernardo,SP,09770-240
+33,Valentina Ferreira,Feminino,1990-04-11,valentina.ferreira@email.com,(11) 555-5050,"Rua das Tulipas, 98",Diadema,SP,09960-250
+34,Davi Pereira,Masculino,1992-09-07,davi.pereira@email.com,(11) 555-6060,"Av. dos Girassóis, 32",São Caetano,SP,09550-330
+35,Maria Oliveira,Feminino,1995-08-12,maria.oliveira@email.com,(11) 555-7070,"Rua dos Cravos, 45",Mauá,SP,09360-260
+36,Enzo Alves,Masculino,1997-02-03,enzo.alves@email.com,(11) 555-8080,"Av. dos Jasmins, 68",Santo André,SP,09070-150
+37,Helena Santos,Feminino,1994-10-29,helena.santos@email.com,(11) 555-9090,"Rua das Orquídeas, 33",São Bernardo,SP,09760-270
+38,Miguel Lima,Masculino,1992-07-21,miguel.lima@email.com,(11) 555-0101,"Av. das Violetas, 72",Diadema,SP,09950-340
+39,Lívia Ferreira,Feminino,1993-12-17,livia.ferreira@email.com,(11) 555-1212,"Rua das Begônias, 77",São Caetano,SP,09540-310
+40,Nicolas Ribeiro,Masculino,1995-05-06,nicolas.ribeiro@email.com,(11) 555-2323,"Av. das Hortênsias, 42",Mauá,SP,09370-280
+41,Marcelo Santos,Masculino,1990-10-12,marcelo.santos@email.com,(11) 555-1234,"Rua das Estrelas, 67",Santo André,SP,09045-150
+42,Carolina Almeida,Feminino,1987-04-25,carolina.almeida@email.com,(11) 555-2345,"Av. das Flores, 89",São Bernardo,SP,09785-210
+43,André Silva,Masculino,1991-07-03,andre.silva@email.com,(11) 555-3456,"Rua das Borboletas, 12",Diadema,SP,09975-230
+44,Julia Pereira,Feminino,1989-11-17,julia.pereira@email.com,(11) 555-4567,"Av. do Sol, 56",São Caetano,SP,09565-320
+45,Felipe Gomes,Masculino,1992-03-28,felipe.gomes@email.com,(11) 555-5678,"Rua da Lua, 78",Mauá,SP,09345-280
+46,Bruna Oliveira,Feminino,1994-08-14,bruna.oliveira@email.com,(11) 555-6789,"Av. das Palmeiras, 34",Santo André,SP,09055-170
+47,Marcos Ribeiro,Masculino,1988-01-22,marcos.ribeiro@email.com,(11) 555-7890,"Rua dos Pássaros, 23",São Bernardo,SP,09780-240
+48,Larissa Lima,Feminino,1993-06-19,larissa.lima@email.com,(11) 555-8901,"Av. dos Girassóis, 45",Diadema,SP,09970-260
+49,Gustavo Fernandes,Masculino,1986-09-08,gustavo.fernandes@email.com,(11) 555-9012,"Rua das Maravilhas, 67",São Caetano,SP,09570-310
+50,Letícia Santos,Feminino,1995-12-25,leticia.santos@email.com,(11) 555-0123,"Av. das Águas, 87",Mauá,SP,09350-370
+51,Ricardo Carvalho,Masculino,1990-04-03,ricardo.carvalho@email.com,(11) 555-1234,"Rua dos Cravos, 56",Santo André,SP,09065-180
+52,Ana Clara Silva,Feminino,1988-02-18,anaclara.silva@email.com,(11) 555-2345,"Av. das Tulipas, 45",São Bernardo,SP,09785-220
+53,Guilherme Alves,Masculino,1993-11-14,guilherme.alves@email.com,(11) 555-3456,"Rua das Violetas, 23",Diadema,SP,09975-250
+54,Camila Ribeiro,Feminino,1989-09-07,camila.ribeiro@email.com,(11) 555-4567,"Av. das Hortênsias, 67",São Caetano,SP,09565-320
+55,Eduardo Lima,Masculino,1991-07-31,eduardo.lima@email.com,(11) 555-5678,"Rua das Orquídeas, 43",Mauá,SP,09345-290
+56,Ana Beatriz Santos,Feminino,1987-03-19,anabeatriz.santos@email.com,(11) 555-6789,"Av. das Borboletas, 16",Santo André,SP,09055-190
+57,Diego Oliveira,Masculino,1995-10-04,diego.oliveira@email.com,(11) 555-7890,"Rua do Arco-Íris, 32",São Bernardo,SP,09780-250
+58,Larissa Almeida,Feminino,1993-08-27,larissa.almeida@email.com,(11) 555-8901,"Av. das Flores, 78",Diadema,SP,09970-270
+59,Thiago Pereira,Masculino,1986-01-15,thiago.pereira@email.com,(11) 555-9012,"Rua das Tulipas, 34",São Caetano,SP,09570-320
+60,Vanessa Gomes,Feminino,1990-06-30,vanessa.gomes@email.com,(11) 555-0123,"Av. do Sol, 92",Mauá,SP,09350-380
+61,Isadora Silva,Feminino,1994-12-07,isadora.silva@email.com,(11) 555-1234,"Rua das Estrelas, 56",Santo André,SP,09045-160
+62,Matheus Ribeiro,Masculino,1992-09-21,matheus.ribeiro@email.com,(11) 555-2345,"Av. das Flores, 76",São Bernardo,SP,09785-230
+63,Leticia Almeida,Feminino,1990-02-14,leticia.almeida@email.com,(11) 555-3456,"Rua dos Girassois, 34",Diadema,SP,09975-260
+64,Enzo Lima,Masculino,1987-08-03,enzo.lima@email.com,(11) 555-4567,"Av. das Tulipas, 43",São Caetano,SP,09565-340
+65,Amanda Santos,Feminino,1995-05-18,amanda.santos@email.com,(11) 555-5678,"Rua do Sol, 45",Mauá,SP,09345-310
+66,Rodrigo Oliveira,Masculino,1989-03-24,rodrigo.oliveira@email.com,(11) 555-6789,"Av. dos Pássaros, 23",Santo André,SP,09055-140
+67,Luiza Gomes,Feminino,1991-06-29,luiza.gomes@email.com,(11) 555-7890,"Rua das Araras, 32",São Bernardo,SP,09780-230
+68,Pedro Silva,Masculino,1988-04-12,pedro.silva@email.com,(11) 555-8901,"Av. das Violetas, 45",Diadema,SP,09970-290
+69,Ana Beatriz Lima,Feminino,1993-01-03,anabeatriz.lima@email.com,(11) 555-9012,"Rua das Borboletas, 56",São Caetano,SP,09570-330
+70,Rafael Fernandes,Masculino,1996-11-07,rafael.fernandes@email.com,(11) 555-0123,"Av. das Maravilhas, 67",Mauá,SP,09350-390
+71,Julia Almeida,Feminino,1990-10-15,julia.almeida@email.com,(11) 555-1234,"Rua das Tulipas, 23",Santo André,SP,09045-170
+72,Guilherme Lima,Masculino,1986-06-28,guilherme.lima@email.com,(11) 555-2345,"Av. das Flores, 78",São Bernardo,SP,09785-240
+73,Camila Ribeiro,Feminino,1992-07-23,camila.ribeiro@email.com,(11) 555-3456,"Rua dos Girassóis, 45",Diadema,SP,09975-270
+74,Leonardo Gomes,Masculino,1995-02-10,leonardo.gomes@email.com,(11) 555-4567,"Av. do Sol, 32",São Caetano,SP,09565-350
+75,Mariana Silva,Feminino,1993-03-15,mariana.silva@email.com,(11) 555-5678,"Rua das Borboletas, 34",Mauá,SP,09345-320
+76,Gustavo Lima,Masculino,1988-09-11,gustavo.lima@email.com,(11) 555-6789,"Av. das Palmeiras, 56",Santo André,SP,09055-180
+77,Isabella Ribeiro,Feminino,1994-12-20,isabella.ribeiro@email.com,(11) 555-7890,"Rua das Tulipas, 65",São Bernardo,SP,09780-260
+78,Lucas Almeida,Masculino,1987-04-06,lucas.almeida@email.com,(11) 555-8901,"Av. dos Girassóis, 56",Diadema,SP,09970-310
+79,Beatriz Lima,Feminino,1991-11-26,beatriz.lima@email.com,(11) 555-9012,"Rua das Violetas, 32",São Caetano,SP,09570-340
+80,André Santos,Masculino,1990-02-18,andre.santos@email.com,(11) 555-0123,"Av. do Sol, 67",Mauá,SP,09350-370
+81,Valentina Almeida,Feminino,1995-07-29,valentina.almeida@email.com,(11) 555-1234,"Rua das Flores, 76",Santo André,SP,09045-180
+82,Rafaela Gomes,Feminino,1993-04-11,rafaela.gomes@email.com,(11) 555-2345,"Av. das Borboletas, 67",São Bernardo,SP,09785-250
+83,Theo Silva,Masculino,1989-08-15,theo.silva@email.com,(11) 555-3456,"Rua do Sol, 43",Diadema,SP,09975-290
+84,Isabel Lima,Feminino,1992-12-24,isabel.lima@email.com,(11) 555-4567,"Av. dos Girassóis, 32",São Caetano,SP,09565-360
+85,Benjamin Santos,Masculino,1988-06-17,benjamin.santos@email.com,(11) 555-5678,"Rua das Maravilhas, 45",Mauá,SP,09345-330
+86,Antonella Ribeiro,Feminino,1990-11-30,antonella.ribeiro@email.com,(11) 555-6789,"Av. das Tulipas, 56",Santo André,SP,09055-190
+87,Enrico Almeida,Masculino,1994-03-03,enrico.almeida@email.com,(11) 555-7890,"Rua das Violetas, 23",São Bernardo,SP,09780-270
+88,Helena Silva,Feminino,1986-09-12,helena.silva@email.com,(11) 555-8901,"Av. das Borboletas, 45",Diadema,SP,09970-320
+89,Henrique Lima,Masculino,1993-02-20,henrique.lima@email.com,(11) 555-9012,"Rua das Flores, 56",São Caetano,SP,09570-350
+90,Eloá Gomes,Feminino,1991-05-07,eloa.gomes@email.com,(11) 555-0123,"Av. das Estrelas, 67",Mauá,SP,09350-380
+91,Artur Santos,Masculino,1995-06-28,artur.santos@email.com,(11) 555-1234,"Rua do Sol, 45",Santo André,SP,09045-190
+92,Catarina Almeida,Feminino,1992-09-11,catarina.almeida@email.com,(11) 555-2345,"Av. dos Pássaros, 56",São Bernardo,SP,09785-260
+93,Francisco Lima,Masculino,1988-11-26,francisco.lima@email.com,(11) 555-3456,"Rua das Maravilhas, 78",Diadema,SP,09975-320
+94,Manuela Silva,Feminino,1994-04-04,manuela.silva@email.com,(11) 555-4567,"Av. das Tulipas, 67",São Caetano,SP,09565-370
+95,Leonardo Gomes,Masculino,1989-12-20,leonardo.gomes@email.com,(11) 555-5678,"Rua das Violetas, 45",Mauá,SP,09345-340
+96,Melissa Ribeiro,Feminino,1990-01-03,melissa.ribeiro@email.com,(11) 555-6789,"Av. dos Girassóis, 32",Santo André,SP,09055-200
+97,Lucas Lima,Masculino,1993-06-29,lucas.lima@email.com,(11) 555-7890,"Rua das Borboletas, 67",São Bernardo,SP,09780-290
+98,Maria Fernandes,Feminino,1995-09-12,maria.fernandes@email.com,(11) 555-8901,"Av. das Maravilhas, 45",Diadema,SP,09970-330
+99,Gustavo Gomes,Masculino,1991-08-26,gustavo.gomes@email.com,(11) 555-9012,"Rua das Flores, 56",São Caetano,SP,09570-360
+100,Sofia Lima,Feminino,1990-03-07,sofia.lima@email.com,(11) 555-0123,"Av. das Estrelas, 67",Mauá,SP,09350-390

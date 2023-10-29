@@ -1,0 +1,101 @@
+id_produto,nome_produto,categoria,estoque,custo_unitario,custo_total,preco_venda,total_estoque
+1,Morango Sorvete,Sorvetes,150,2.0,300.0,5.0,750.0
+2,Chocolate Sorvete,Sorvetes,120,1.8,216.0,4.5,540.0
+3,Baunilha Sorvete,Sorvetes,130,1.8,234.0,4.5,585.0
+4,Coco Sorvete,Sorvetes,110,1.8,198.0,4.5,495.0
+5,Morango Picolé,Picolés,200,0.8,160.0,2.0,400.0
+6,Uva Picolé,Picolés,180,0.8,144.0,2.0,360.0
+7,Limão Picolé,Picolés,190,0.8,152.0,2.0,380.0
+8,Abacaxi Picolé,Picolés,170,0.8,136.0,2.0,340.0
+9,Tangerina Picolé,Picolés,210,0.8,168.0,2.0,420.0
+10,Chocolate Quente,Bebidas,80,1.5,120.0,3.5,280.0
+11,Sorvete de Pistache,Sorvetes,100,2.0,200.0,5.5,550.0
+12,Picolé de Framboesa,Picolés,120,0.8,96.0,2.2,264.0
+13,Cappuccino,Bebidas,70,1.5,105.0,4.0,280.0
+14,Sorvete de Amêndoa,Sorvetes,110,2.0,220.0,5.2,572.0
+15,Picolé de Maracujá,Picolés,130,0.8,104.0,2.3,299.0
+16,Sorvete de Coco,Sorvetes,140,1.8,252.0,5.0,700.0
+17,Sorvete de Abacaxi,Sorvetes,130,1.8,234.0,5.1,663.0
+18,Sorvete de Morango,Sorvetes,120,2.0,240.0,5.3,636.0
+19,Picolé de Abacaxi,Picolés,150,0.8,120.0,2.5,375.0
+20,Café Americano,Bebidas,90,1.2,108.0,3.2,288.0
+21,Sorvete de Limão,Sorvetes,180,1.8,324.0,5.2,936.0
+22,Picolé de Manga,Picolés,140,0.8,112.0,2.3,322.0
+23,Mocha Latte,Bebidas,75,1.5,112.5,3.6,270.0
+24,Sorvete de Pistache,Sorvetes,110,2.0,220.0,5.5,605.0
+25,Picolé de Maracujá,Picolés,125,0.8,100.0,2.4,300.0
+26,Sorvete de Tangerina,Sorvetes,135,1.8,243.0,5.3,715.5
+27,Sorvete de Abacaxi,Sorvetes,125,1.8,225.0,5.1,637.5
+28,Sorvete de Morango,Sorvetes,115,2.0,230.0,5.0,575.0
+29,Picolé de Abacaxi,Picolés,145,0.8,116.0,2.5,362.5
+30,Café Americano,Bebidas,85,1.2,102.0,3.2,272.0
+31,Sorvete de Chocolate,Sorvetes,105,1.8,189.0,4.6,483.0
+32,Picolé de Coco,Picolés,135,0.8,108.0,2.2,297.0
+33,Sorvete de Baunilha,Sorvetes,115,2.0,230.0,5.2,598.0
+34,Picolé de Limão,Picolés,130,0.8,104.0,2.3,299.0
+35,Sorvete de Uva,Sorvetes,125,1.8,225.0,5.4,675.0
+36,Sorvete de Creme,Sorvetes,120,2.0,240.0,5.6,672.0
+37,Picolé de Morango,Picolés,135,0.8,108.0,2.4,324.0
+38,Sorvete de Chocolate,Sorvetes,110,1.8,198.0,4.7,517.0
+39,Picolé de Abacate,Picolés,140,0.8,112.0,2.1,294.0
+40,Sorvete de Pêssego,Sorvetes,130,1.8,234.0,5.0,650.0
+41,Brownie de Chocolate,Doces,50,2.5,125.0,4.5,225.0
+42,Sorvete de Pistache,Sorvetes,100,2.0,200.0,5.5,550.0
+43,Picolé de Framboesa,Picolés,120,0.8,96.0,2.2,264.0
+44,Cappuccino,Bebidas,70,1.5,105.0,3.6,252.0
+45,Sorvete de Amêndoa,Sorvetes,110,2.0,220.0,5.2,572.0
+46,Picolé de Maracujá,Picolés,130,0.8,104.0,2.3,299.0
+47,Sorvete de Tangerina,Sorvetes,135,1.8,243.0,5.3,715.5
+48,Sorvete de Abacaxi,Sorvetes,125,1.8,225.0,5.1,637.5
+49,Sorvete de Morango,Sorvetes,115,2.0,230.0,5.0,575.0
+50,Picolé de Abacaxi,Picolés,145,0.8,116.0,2.5,362.5
+51,Café Americano,Bebidas,85,1.2,102.0,3.2,272.0
+52,Sorvete de Chocolate,Sorvetes,105,1.8,189.0,4.6,483.0
+53,Picolé de Coco,Picolés,135,0.8,108.0,2.2,297.0
+54,Chocolate Quente,Bebidas,60,1.5,90.0,3.5,210.0
+55,Sorvete de Baunilha,Sorvetes,115,2.0,230.0,5.2,598.0
+56,Picolé de Limão,Picolés,130,0.8,104.0,2.3,299.0
+57,Sorvete de Uva,Sorvetes,125,1.8,225.0,5.4,675.0
+58,Sorvete de Creme,Sorvetes,120,2.0,240.0,5.6,672.0
+59,Sorvete de Pêssego,Sorvetes,130,1.8,234.0,5.0,650.0
+60,Picolé de Abacate,Picolés,140,0.8,112.0,2.1,294.0
+61,Sorvete de Casquinha,Sorvetes,90,2.2,198.0,4.8,432.0
+62,Açaí na Tigela,Açaí,75,3.0,225.0,7.0,525.0
+63,Sundae de Caramelo,Sorvetes,80,2.5,200.0,5.8,464.0
+64,Picolé de Framboesa,Picolés,100,0.8,80.0,2.2,220.0
+65,Churros Sorvete,Sorvetes,85,2.0,170.0,4.5,382.5
+66,Sorvete de Morango,Sorvetes,95,1.8,171.0,4.8,456.0
+67,Banana Split,Sobremesas,70,2.2,154.0,5.5,385.0
+68,Picolé de Cereja,Picolés,110,0.8,88.0,2.2,242.0
+69,Sorvete de Abacate,Sorvetes,105,2.0,210.0,5.2,546.0
+70,Açaí na Tigela,Açaí,85,3.0,255.0,7.0,595.0
+71,Sundae de Chocolate,Sorvetes,90,2.5,225.0,6.0,540.0
+72,Sorvete de Pêssego,Sorvetes,95,1.8,171.0,4.5,427.5
+73,Churros Sorvete,Sorvetes,80,2.0,160.0,4.2,336.0
+74,Sorvete de Uva,Sorvetes,85,1.8,153.0,4.8,408.0
+75,Picolé de Limão,Picolés,95,0.8,76.0,2.0,190.0
+76,Sorvete de Creme,Sorvetes,75,2.0,150.0,4.5,337.5
+77,Picolé de Abacaxi,Picolés,105,0.8,84.0,2.3,241.5
+78,Sorvete de Chocolate,Sorvetes,90,1.8,162.0,4.8,432.0
+79,Sorvete de Baunilha,Sorvetes,85,2.0,170.0,4.5,382.5
+80,Picolé de Cereja,Picolés,110,0.8,88.0,2.2,242.0
+81,Coca-Cola 500ml,Refrigerantes,60,1.5,90.0,3.0,180.0
+82,Fanta Laranja 500ml,Refrigerantes,70,1.5,105.0,3.2,224.0
+83,Pringles Original,Snacks,50,2.0,100.0,4.5,225.0
+84,Doritos Queijo Nacho,Snacks,60,2.2,132.0,4.8,288.0
+85,Sprite 500ml,Refrigerantes,65,1.5,97.5,3.0,195.0
+86,Snickers Bar,Doces,70,1.2,84.0,2.5,175.0
+87,Pepsi 500ml,Refrigerantes,55,1.5,82.5,3.1,170.5
+88,Pringles Sour Cream,Snacks,45,2.0,90.0,4.4,198.0
+89,M&M's Chocolate,Doces,60,1.0,60.0,2.2,132.0
+90,Guaraná Antárctica 500ml,Refrigerantes,70,1.5,105.0,3.2,224.0
+91,KitKat Wafer Bar,Doces,50,1.2,60.0,2.8,140.0
+92,Ruffles Original,Snacks,55,2.2,121.0,4.9,269.5
+93,Halls Menta,Doces,60,0.6,36.0,1.5,90.0
+94,Coca-Cola Zero 500ml,Refrigerantes,65,1.5,97.5,3.0,195.0
+95,Oreo Cookies,Doces,75,1.2,90.0,2.6,195.0
+96,Ruffles Churrasco,Snacks,55,2.2,121.0,4.8,264.0
+97,Twix Chocolate,Doces,70,1.2,84.0,2.5,175.0
+98,Guaraviton Laranja 500ml,Refrigerantes,50,1.5,75.0,3.1,155.0
+99,Hershey's Chocolate Bar,Doces,60,1.0,60.0,2.4,144.0
+100,Lays Classic,Snacks,70,2.0,140.0,4.2,294.0

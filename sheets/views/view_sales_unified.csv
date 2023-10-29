@@ -1,0 +1,111 @@
+index,id,data_venda,quantidade,total,nome_cliente,nome_produto
+0,1,2023-10-01 08:30:00,2,10.0,Ana Pereira,Morango Sorvete
+1,2,2023-10-01 08:30:00,3,6.0,Ana Pereira,Morango Picolé
+2,3,2023-10-01 11:05:00,1,5.5,Camila Ribeiro,Sorvete de Pistache
+3,4,2023-10-01 12:30:00,4,18.0,Henrique Lima,Coco Sorvete
+4,5,2023-10-01 13:55:00,2,4.6,Juliana Martins,Abacaxi Picolé
+5,6,2023-10-01 15:20:00,2,4.6,Rodrigo Oliveira,Picolé de Maracujá
+6,7,2023-10-01 16:40:00,5,22.5,Laura Martins,Chocolate Sorvete
+7,8,2023-10-01 18:00:00,3,6.9,Thiago Alves,Abacaxi Picolé
+8,9,2023-10-02 08:15:00,2,4.0,Larissa Lima,Uva Picolé
+9,10,2023-10-02 09:40:00,3,7.5,Valentina Almeida,Picolé de Abacaxi
+10,11,2023-10-02 11:00:00,4,22.4,André Almeida,Sorvete de Limão
+11,12,2023-10-02 12:25:00,1,4.0,Guilherme Alves,Cappuccino
+12,13,2023-10-02 13:45:00,2,11.0,Gustavo Gomes,Sorvete de Pistache
+13,14,2023-10-02 15:10:00,5,26.5,Rafael Costa,Picolé de Limão
+14,15,2023-10-02 16:35:00,2,10.4,Ana Beatriz Lima,Sorvete de Coco
+15,16,2023-10-02 17:55:00,1,2.2,Isabella Ribeiro,Cappuccino
+16,17,2023-10-03 08:10:00,4,20.8,João Santos,Café Americano
+17,18,2023-10-03 09:30:00,3,13.6,Renata Souza,Café Americano
+18,19,2023-10-03 10:55:00,1,5.8,Theo Silva,Sundae de Caramelo
+19,20,2023-10-03 12:20:00,4,8.0,Artur Santos,Uva Picolé
+20,21,2023-10-03 13:40:00,2,10.2,Helena Santos,Sorvete de Abacaxi
+21,22,2023-10-03 15:05:00,3,7.5,Thiago Pereira,Picolé de Abacaxi
+22,23,2023-10-03 16:30:00,1,4.8,Isabela Pereira,Sorvete de Baunilha
+23,24,2023-10-03 17:50:00,3,6.9,Gustavo Fernandes,Abacaxi Picolé
+24,25,2023-10-04 08:25:00,4,20.0,Enzo Lima,Picolé de Abacate
+25,26,2023-10-04 09:45:00,2,11.0,Enrico Almeida,Sorvete de Amêndoa
+26,27,2023-10-04 11:10:00,4,20.0,Daniel Ferreira,Morango Sorvete
+27,28,2023-10-04 12:35:00,1,3.5,Valentina Ferreira,Chocolate Quente
+28,29,2023-10-04 13:55:00,3,15.9,Ana Clara Silva,Sorvete de Morango
+29,30,2023-10-04 15:20:00,2,7.0,Beatriz Lima,Sundae de Chocolate
+30,31,2023-10-04 16:45:00,1,4.5,Eduardo Lima,Chocolate Sorvete
+31,32,2023-10-04 17:55:00,2,10.8,Felipe Gomes,Sorvete de Uva
+32,33,2023-10-05 08:15:00,3,14.4,Rafael Fernandes,Sorvete de Casquinha
+33,34,2023-10-05 09:35:00,1,5.0,Lucas Santos,Sorvete de Pêssego
+34,35,2023-10-05 11:00:00,4,8.0,Pedro Silva,Limão Picolé
+35,36,2023-10-05 13:45:00,2,10.4,Maria Silva,Sorvete de Baunilha
+36,37,2023-10-05 13:45:00,3,6.6,Maria Silva,Cappuccino
+37,38,2023-10-05 15:10:00,1,2.5,Eduardo Lima,Picolé de Abacaxi
+38,39,2023-10-05 16:35:00,2,4.6,Laura Pereira,Abacaxi Picolé
+39,40,2023-10-05 17:50:00,4,14.8,Lucas Lima,Sorvete de Pêssego
+40,41,2023-10-01 08:40:00,2,10.2,Rafael Costa,Sorvete de Abacaxi
+41,42,2023-10-01 09:55:00,3,6.9,Isadora Silva,Abacaxi Picolé
+42,43,2023-10-01 11:15:00,1,4.0,Carolina Almeida,Cappuccino
+43,44,2023-10-01 12:40:00,3,14.4,Isabella Ribeiro,Picolé de Coco
+44,45,2023-10-01 14:05:00,2,10.4,Sofia Costa,Sorvete de Limão
+45,46,2023-10-01 15:25:00,4,14.0,Maria Oliveira,Chocolate Quente
+46,47,2023-10-01 16:50:00,2,9.0,Carlos Oliveira,Baunilha Sorvete
+47,48,2023-10-02 08:20:00,1,5.5,Diego Oliveira,Sorvete de Chocolate
+48,49,2023-10-02 09:40:00,3,6.6,Marcela Oliveira,Picolé de Manga
+49,50,2023-10-02 11:05:00,2,10.0,Rafael Fernandes,Morango Sorvete
+50,51,2023-10-02 12:30:00,1,2.0,Felipe Gomes,Morango Picolé
+51,52,2023-10-02 13:50:00,3,6.0,Fernanda Costa,Limão Picolé
+52,53,2023-10-02 15:15:00,1,4.5,Francisco Lima,Sorvete de Amêndoa
+53,54,2023-10-02 16:40:00,2,11.0,Leticia Almeida,Picolé de Limão
+54,55,2023-10-03 08:00:00,3,6.9,Isabel Lima,Picolé de Maracujá
+55,56,2023-10-03 09:25:00,1,2.3,João Santos,Abacaxi Picolé
+56,57,2023-10-03 10:45:00,2,10.8,Guilherme Alves,Sorvete de Uva
+57,58,2023-10-03 12:10:00,3,14.4,Eduardo Lima,Brownie de Chocolate
+58,59,2023-10-03 13:35:00,1,3.2,Guilherme Lima,Café Americano
+59,60,2023-10-03 14:55:00,2,11.0,Lívia Ferreira,Sorvete de Pistache
+60,61,2023-10-03 16:20:00,3,13.8,Larissa Almeida,Picolé de Limão
+61,62,2023-10-03 17:40:00,2,7.0,Melissa Ribeiro,Chocolate Quente
+62,63,2023-10-04 08:05:00,1,5.5,Marcos Ribeiro,Sorvete de Pistache
+63,64,2023-10-04 09:30:00,2,12.8,Amanda Santos,Chocolate Quente
+64,65,2023-10-04 10:50:00,1,4.8,André Santos,Picolé de Maracujá
+65,66,2023-10-04 12:15:00,4,19.2,Laura Pereira,Sorvete de Morango
+66,67,2023-10-04 13:40:00,1,5.8,Luísa Ferreira,Sundae de Chocolate
+67,68,2023-10-04 15:00:00,2,8.4,Ana Pereira,Sorvete de Baunilha
+68,69,2023-10-04 16:25:00,3,15.0,Leonardo Gomes,Sorvete de Pêssego
+69,70,2023-10-04 17:50:00,1,4.8,Manuela Silva,Ruffles Churrasco
+70,71,2023-10-05 08:20:00,2,4.4,Nicolas Ribeiro,Guaraná Antárctica 500ml
+71,72,2023-10-05 09:35:00,1,4.5,Ricardo Carvalho,Sorvete de Abacaxi
+72,73,2023-10-05 11:00:00,3,6.9,Gustavo Lima,Picolé de Abacaxi
+73,74,2023-10-05 12:25:00,1,2.8,Catarina Silva,KitKat Wafer Bar
+74,75,2023-10-05 13:45:00,2,11.6,Helena Silva,Sundae de Caramelo
+75,76,2023-10-05 15:10:00,1,4.8,Laura Santos,Sorvete de Creme
+76,77,2023-10-05 16:35:00,3,6.6,Lucas Almeida,Hershey's Chocolate Bar
+77,78,2023-10-05 17:50:00,1,4.0,Bruna Oliveira,Cappuccino
+78,79,2023-10-01 08:25:00,2,5.6,João Santos,Ruffles Original
+79,80,2023-10-01 09:50:00,1,5.4,Rafael Rodrigues,Sorvete de Creme
+80,81,2023-10-01 11:10:00,3,14.4,Mariana Silva,Açaí na Tigela
+81,82,2023-10-01 12:35:00,1,4.4,Laura Santos,Picolé de Framboesa
+82,83,2023-10-01 13:55:00,2,11.6,Larissa Almeida,Banana Split
+83,84,2023-10-01 15:20:00,3,14.4,João Gomes,Sorvete de Creme
+84,85,2023-10-01 16:45:00,1,5.3,Daniel Ferreira,Picolé de Limão
+85,86,2023-10-02 08:15:00,2,4.4,Luísa Ferreira,Picolé de Cereja
+86,87,2023-10-02 09:35:00,3,7.2,Helena Santos,Picolé de Abacaxi
+87,88,2023-10-02 11:00:00,1,5.8,Rafael Fernandes,Sundae de Chocolate
+88,89,2023-10-02 12:25:00,2,12.4,Gustavo Fernandes,Sorvete de Casquinha
+89,90,2023-10-02 13:45:00,3,18.6,Henrique Lima,Açaí na Tigela
+90,91,2023-10-02 15:10:00,1,4.4,André Silva,Picolé de Framboesa
+91,92,2023-10-02 16:35:00,2,11.6,Vanessa Gomes,Banana Split
+92,93,2023-10-02 17:50:00,3,15.9,Manuela Silva,Picolé de Limão
+93,94,2023-10-03 08:20:00,1,4.4,Ana Pereira,Picolé de Cereja
+94,95,2023-10-03 09:40:00,2,9.6,Maria Oliveira,Sorvete de Morango
+95,96,2023-10-03 11:05:00,3,13.2,Daniel Ferreira,Picolé de Framboesa
+96,97,2023-10-03 12:30:00,1,5.3,Luiza Gomes,Picolé de Limão
+97,98,2023-10-03 13:50:00,2,9.6,Maria Oliveira,Sorvete de Morango
+98,99,2023-10-03 15:15:00,3,13.2,Helena Santos,Picolé de Framboesa
+99,100,2023-10-03 16:40:00,1,5.3,João Santos,Picolé de Limão
+100,101,2023-10-28 10:15:00,2,9.6,Helena Santos,Picolé de Limão
+101,102,2023-10-28 11:45:00,3,14.4,Gustavo Fernandes,Sorvete de Morango
+102,103,2023-10-28 12:30:00,1,4.4,Letícia Santos,Picolé de Framboesa
+103,104,2023-10-28 13:15:00,2,11.6,Sofia Costa,Banana Split
+104,105,2023-10-28 14:45:00,3,15.9,Davi Pereira,Picolé de Limão
+105,106,2023-10-28 15:30:00,1,4.8,Valentina Almeida,Sorvete de Morango
+106,107,2023-10-28 16:15:00,2,9.6,Catarina Silva,Picolé de Framboesa
+107,108,2023-10-28 17:45:00,3,13.2,Matheus Ribeiro,Banana Split
+108,109,2023-10-28 18:30:00,1,5.3,Felipe Gomes,Picolé de Limão
+109,110,2023-10-28 19:15:00,2,9.6,Ana Pereira,Sorvete de Morango
